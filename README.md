@@ -59,3 +59,71 @@ branch_name = "my-new-branch"
 subprocess.run(["git", "checkout", "-b", branch_name], check=True)
 
 print(f"Switched to new branch: {branch_name}")
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .header {
+            background: #007bff;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        .nav {
+            display: flex;
+            justify-content: center;
+            background: #0056b3;
+            padding: 10px;
+        }
+        .nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        .hero {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 50vh;
+            background: #f4f4f4;
+            text-align: center;
+        }
+        .footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to My Website</h1>
+    </div>
+    <div class="nav">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+    </div>
+    <div class="hero">
+        <h2>Build Your Dream Website</h2>
+    </div>
+    <div class="footer">
+        &copy; 2025 My Website. All Rights Reserved.
+    </div>
+</body>
+</html>
