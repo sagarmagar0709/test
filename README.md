@@ -49,3 +49,13 @@ Let me know if it's still stuck! 🚀
 
 
 hello from code
+
+
+import subprocess
+
+branch_name = "my-new-branch"
+
+# Create and switch to the new branch
+subprocess.run(["git", "checkout", "-b", branch_name], check=True)
+
+print(f"Switched to new branch: {branch_name}")
