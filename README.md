@@ -28,3 +28,17 @@ bash
 Copy
 Edit
 git remote add origin https://github.com/your-username/your-repo.git
+2. Restart GitHub Desktop and Browser
+Close GitHub Desktop completely.
+Restart Google Chrome and log into GitHub.com.
+Open GitHub Desktop and try signing in again.
+3. Clear Browser Cache
+If it still doesn’t work:
+
+Open Google Chrome.
+Press Ctrl + Shift + Delete and clear Cookies and Cached Images.
+Restart the browser and retry signing in.
+4. Check if GitHub Desktop is Blocked
+Open Windows Defender or Antivirus settings.
+Ensure GitHub Desktop is allowed through the firewall.
+Let me know if it's still stuck! 🚀
