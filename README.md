@@ -116,7 +116,5 @@ print(f"Switched to new branch: {branch_name}")
     <div class="nav">
         <a href="#">Home</a>
         <a href="#">About</a>
-        <a href="#">Services</a>
-        <a href="#">Contact</a>
-    </div>
+       
     
