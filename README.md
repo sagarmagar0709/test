@@ -119,11 +119,4 @@ print(f"Switched to new branch: {branch_name}")
         <a href="#">Services</a>
         <a href="#">Contact</a>
     </div>
-    <div class="hero">
-        <h2>Build Your Dream Website</h2>
-    </div>
-    <div class="footer">
-        &copy; 2025 My Website. All Rights Reserved.
-    </div>
-</body>
-</html>
+    
